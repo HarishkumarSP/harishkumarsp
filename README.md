@@ -7,9 +7,9 @@
 - 🌱 I’m currently learning Spring boot and problem solving😋
 - 👯 I’m looking to collaborate with developers who will be same as of my mindset🤪
 - 💬 Ask me about 
-  -JAVA
-  -MOBILE TECH
-  -Motivational and positive sayings from me😉
+  #JAVA
+  #MOBILE TECH
+  #Motivational and positive sayings from me😉
 - 📫 How to reach me: 
  -Linkedin: 
 - 😄 Pronouns: ...
