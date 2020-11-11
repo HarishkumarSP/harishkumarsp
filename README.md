@@ -8,11 +8,10 @@
 - 👯 I’m looking to collaborate with developers who will be same as of my mindset🤪
 - 💬 Ask me about 
 <li>
-<ul>
- JAVA
-  MOBILE TECH
-  Motivational and positive sayings from me😉
-</ul></li>
+<ul>JAVA</ul>
+  <ul>MOBILE TECH</ul>
+  <ul>Motivational and positive sayings from me😉</ul>
+</li>
  - 📫 How to reach me: 
  -Linkedin: <a href="https://www.linkedin.com/in/harishkumar-sp-11557a1ab/">HarishkumarSP</a>
 - 😄 Pronouns: Harishkumar
