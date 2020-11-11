@@ -12,5 +12,5 @@
   #Motivational and positive sayings from me😉
 - 📫 How to reach me: 
  -Linkedin: <a href="https://www.linkedin.com/in/harishkumar-sp-11557a1ab/">HarishkumarSP</a>
-- 😄 Pronouns: ...
+- 😄 Pronouns: Harishkumar
 - ⚡ Fun fact: ...
