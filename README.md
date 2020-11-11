@@ -11,6 +11,6 @@
   #MOBILE TECH
   #Motivational and positive sayings from me😉
 - 📫 How to reach me: 
- -Linkedin: 
+ -Linkedin: <a href="https://www.linkedin.com/in/harishkumar-sp-11557a1ab/">HarishkumarSP</a>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
