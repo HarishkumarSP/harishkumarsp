@@ -25,7 +25,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-Sweet.vercel.app/api/spotify-playing" alt="Sweet Spotify Playing" width="350" />](https://open.spotify.com/user/lpsfm9tvcqrr4dfuxjsq2zjg4?si=fTdNMHlcSQKRATZD46u25Q)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Sweet Spotify Playing" width="350" />](https://open.spotify.com/user/lpsfm9tvcqrr4dfuxjsq2zjg4?si=fTdNMHlcSQKRATZD46u25Q)
 
 [twitter]: https://twitter.com/sweet_harish07
 [instagram]: https://instagram.com/sweet_harish
