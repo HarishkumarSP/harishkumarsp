@@ -7,9 +7,9 @@
 - 👯 I’m looking to collaborate with developers who will be same as of my mindset🤪
 <dl>
 <dt>💬 Ask me about</dt>
-<dd>JAVA</dd>
-<dd>MOBILE TECH</dd>
-<dd>Motivational and positive sayings from me😉</dd>
+<dd>- JAVA</dd>
+<dd>- MOBILE TECH</dd>
+<dd>- Motivational and positive sayings from me😉</dd>
 </dl>
  - 📫 How to reach me: 
  -Linkedin: <a href="https://www.linkedin.com/in/harishkumar-sp-11557a1ab/">HarishkumarSP</a>
