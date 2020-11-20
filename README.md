@@ -11,9 +11,7 @@
 <dd>- MOBILE TECH</dd>
 <dd>- Motivational and positive sayings from me😉</dd>
 </dl>
- - 📫 How to reach me: 
- -Linkedin: <a href="https://www.linkedin.com/in/harishkumar-sp-11557a1ab/">HarishkumarSP</a>
- <br>
+ 
 - ⚡ Fun fact: Basically i'm a cook lover...Love to cook and love to eat!!!
 
 ### Connect with me:
@@ -23,9 +21,14 @@
 [<img align="left" alt="sweet_harish | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br>
 
-### Spotify Playing 🎧
 
-[<img src="https://api.spotify.com/v1/player/currently-playing" alt="Sweet Spotify Playing" width="350" />](https://open.spotify.com/user/lpsfm9tvcqrr4dfuxjsq2zjg4?si=fTdNMHlcSQKRATZD46u25Q)
+### Languages and Tools:
+
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 
 
