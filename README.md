@@ -6,11 +6,11 @@
 - 🌱 I’m currently learning Spring boot and problem solving😋
 - 👯 I’m looking to collaborate with developers who will be same as of my mindset🤪
 - 💬 Ask me about
-<ul>
-<li>JAVA</li>
-<li>MOBILE TECH</li>
-<li>Motivational and positive sayings from me😉</li>
-</ul>
+<dl>
+<dd>JAVA</dd>
+<dd>MOBILE TECH</dd>
+<dd>Motivational and positive sayings from me😉</dd>
+</dl>
  - 📫 How to reach me: 
  -Linkedin: <a href="https://www.linkedin.com/in/harishkumar-sp-11557a1ab/">HarishkumarSP</a>
  <br>
