@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on GAME STORE an Web appplication🧐
 - 🌱 I’m currently learning Spring boot and problem solving😋
 - 👯 I’m looking to collaborate with developers who will be same as of my mindset🤪
-- 💬 Ask me about
 <dl>
+<dt>💬 Ask me about</dt>
 <dd>JAVA</dd>
 <dd>MOBILE TECH</dd>
 <dd>Motivational and positive sayings from me😉</dd>
