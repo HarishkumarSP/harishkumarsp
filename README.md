@@ -8,6 +8,7 @@
 - 👯 I’m looking to collaborate with developers who will be same as of my mindset🤪
 <dl>
 <dt>💬 Ask me about</dt>
+<dd>- Javascript</dd>
 <dd>- JAVA</dd>
 <dd>- MOBILE TECH</dd>
 <dd>- Motivational and positive sayings from me😉</dd>
