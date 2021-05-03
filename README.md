@@ -3,13 +3,12 @@
 
 ## I'm a Fresher,ASAP an Software developer,very curious about our tech world...
 
-- 🔭 I’m currently working on my capstone project🧐
-- 🌱 I’m currently learning MEAN and problem solving😋
+- 🔭 I’m currently working on React projects🧐
+- 🌱 I’m currently learning MERN working structure!
 - 👯 I’m looking to collaborate with developers who will be same as of my mindset🤪
 <dl>
 <dt>💬 Ask me about</dt>
 <dd>- Javascript</dd>
-<dd>- JAVA</dd>
 <dd>- MOBILE TECH</dd>
 <dd>- Motivational and positive sayings from me😉</dd>
 </dl>
