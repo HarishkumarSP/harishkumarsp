@@ -1,7 +1,7 @@
 # Hey there,It's Harish!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-## I'm a Fresher,ASAP an Software developer,very curious about our tech world...
+## React Developer
 
 - 🔭 I’m currently working on React projects🧐
 - 🌱 I’m currently learning MERN working structure!
