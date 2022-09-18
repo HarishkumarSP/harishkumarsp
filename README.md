@@ -40,6 +40,6 @@
 
 
 
-[twitter]: https://twitter.com/sweet_harish07
+[twitter]: https://twitter.com/harishk_sp
 [instagram]: https://instagram.com/sweet_harish
 [linkedin]: https://www.linkedin.com/in/harishkumar-sp-11557a1ab/
