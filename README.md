@@ -1,10 +1,10 @@
-# Hey there,It's Harish!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey there,I'm Harish kumar!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-## React Developer
+## Software Engineer
 
-- 🔭 I’m currently working on React projects🧐
-- 🌱 I’m currently learning MERN working structure!
+- 🔭 React developer with 1.7yrs of working experience.
+- 🌱 Had experience with Node.js while worked on server side rendering.
 - 👯 I’m looking to collaborate with developers who will be same as of my mindset🤪
 <dl>
 <dt>💬 Ask me about</dt>
