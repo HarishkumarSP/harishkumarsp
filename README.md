@@ -3,7 +3,7 @@
 
 ## Software Engineer
 
-- 🔭 React developer with 1.7yrs of working experience.
+- 🔭 React developer with professional working experience.
 - 🌱 Had experience with Node.js while worked on server side rendering.
 - 👯 I’m looking to collaborate with developers who will be same as of my mindset🤪
 <dl>
