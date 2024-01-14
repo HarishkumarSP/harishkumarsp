@@ -1,15 +1,15 @@
 # Hey there,I'm Harish kumar!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-## Software Engineer
+## About me
 
-- 🔭 React developer with professional working experience.
-- 🌱 Had experience with Node.js while worked on server side rendering.
-- 👯 I’m looking to collaborate with developers who will be same as of my mindset🤪
+- 🔭 I'm a passionate software engineer, currently working on React.
+- 🌱 I'm curious to work on applications that need to scale and have challenging problems.
+- 👯 I'm seeking to collaborate with like-minded developers.
 <dl>
 <dt>💬 Ask me about</dt>
 <dd>- Javascript</dd>
-<dd>- MOBILE TECH</dd>
+<dd>- Problem solving</dd>
 <dd>- Motivational and positive sayings from me😉</dd>
 </dl>
  
