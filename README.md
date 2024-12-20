@@ -1,30 +1,46 @@
-# Hey there,I'm Harish kumar!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hello, I'm Harishkumar! 👋
 
-
-## About me
-
-- 🔭 I'm a passionate software engineer, currently working on React.
+### About Me
+- 🔭 I'm a passionate software engineer who loves to solve problems
 - 🌱 I'm curious to work on applications that need to scale and have challenging problems.
 - 👯 I'm seeking to collaborate with like-minded developers.
-<dl>
-<dt>💬 Ask me about</dt>
-<dd>- Javascript</dd>
-<dd>- Problem solving</dd>
-<dd>- Motivational and positive sayings from me😉</dd>
-</dl>
+
+### 🔭 Currently Working On
+- Payroll domain project from UAE
+- Nextjs, Node.js related real-world projects
+
+### 🌱 Currently Learning
+- Next.js
+- Node.js core
+
+### 🌱 Wishing to Learn
+- Cloud engineering (AWS, Azure, GCP)
+- Python & Data engineering
+- Cyber security
+- Blockchain
+- Mobile app development
+- Game development
+
+### 💼 Skills
+- **Languages**: Javascript, Typescript.
+- **Frameworks**: React, Cypress, Jest, Nextjs, NestJS.
+- **Tools**: Vite, Storybook, VS code, Git.
+
+### 📫 How to Reach Me
+- LinkedIn: [[harish kumar](https://www.linkedin.com/in/harishkumar-sp-11557a1ab/)]
+- Twitter: [[harishk_sp](https://twitter.com/harishk_sp)]
+- Instagram: [[sweet_harish](https://instagram.com/sweet_harish)]
+
+### ⚡ Fun Fact
+ I'm a cook lover...I love to cook and love to eat!!!
  
-- ⚡ Fun fact: Basically i'm a cook lover...Love to cook and love to eat!!!
+### 📈 GitHub Stats
+![HarishkumarSP's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarishkumarSP&show_icons=true&theme=radical)
 
-### Connect with me:
+### 📜 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarishkumarSP&layout=compact&theme=radical)
 
-[<img align="left" alt="sweet_harish07 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="HarishkumarSP | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="sweet_harish | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br>
+### 👨‍💻 Contributions
+![HarishkumarSP's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=HarishkumarSP)
 
-
-
-
-[twitter]: https://twitter.com/harishk_sp
-[instagram]: https://instagram.com/sweet_harish
-[linkedin]: https://www.linkedin.com/in/harishkumar-sp-11557a1ab/
+Thank you for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate.
