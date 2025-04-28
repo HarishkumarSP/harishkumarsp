@@ -6,7 +6,7 @@
 - 👯 I'm seeking to collaborate with like-minded developers.
 
 ### 🔭 Currently Working On
-- Payroll domain project from UAE
+- React Vite.
 - Nextjs, Node.js related real-world projects
 
 ### 🌱 Currently Learning
